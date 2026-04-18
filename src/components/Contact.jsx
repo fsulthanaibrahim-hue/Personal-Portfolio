@@ -43,7 +43,7 @@ const Contact = () => {
       icon: <FaLinkedin />,
       label: "LinkedIn",
       sub: "fsulthanaibrahim",
-      href: "https://www.linkedin.com/in/fsulthanaibrahim",
+      href: "https://www.linkedin.com/in/fathimath-sulthana-57922839a/",
       color: "#60a5fa",
     },
   ];
