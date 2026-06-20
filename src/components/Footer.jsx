@@ -103,7 +103,7 @@ const Footer = () => {
                 <div className="w-7 h-7 rounded-lg bg-pink-500/10 border border-pink-500/20 flex items-center justify-center flex-shrink-0 group-hover:border-pink-500/40 transition-colors">
                   <FaPhone className="text-pink-400 text-xs" />
                 </div>
-                <span>+91 7025887016</span>
+                <span>+91 7012445229</span>
               </a>
             </div>
           </div>
